@@ -1,0 +1,26 @@
+{
+  "name": "slack-gpt4-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^4.3.0",
+    "dotenv": "^16.5.0",
+    "openai": "^4.98.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numansaleem/Slack-ChatatBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/numansaleem/Slack-ChatatBot/issues"
+  },
+  "homepage": "https://github.com/numansaleem/Slack-ChatatBot#readme",
+  "description": ""
+}
